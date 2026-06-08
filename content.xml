@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260608221415IJG2P9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260608221415JKTK3R</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Acrosport 4ºA de Educación Física (Educación Primaria)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Juanma</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780943269759</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780940058586-i4hxb28y9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780940058586-i4hxb28y9</odePageId>
+      <odeBlockId>block-1780940061940-0h9utqdsg</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780940058586-i4hxb28y9</odePageId>
+          <odeBlockId>block-1780940061940-0h9utqdsg</odeBlockId>
+          <odeIdeviceId>idevice-1780940061937-p29vjqt8m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1.   Centro de interés o temática.<br /> <br />La temática gira en torno a "El Circo del Acrosport". Se presenta al alumnado el desafío de crear una compañía de acrobacia donde no existen "estrellas" individuales, sino que el éxito depende de la estabilidad y seguridad del grupo. Se trabaja bajo el concepto de arquitectura humana.<br /> <br />2.   Nivel al que va dirigido.<br /> <br />Cuarto de Educación Primaria.<br /> <br />3.   Temporalización aproximada.<br /> <br />6 sesiones de 1:30 horas<br /> <br />4.   Materia o materias implicadas.<br /> <br />Educación Física <br /> <br />5.   Idioma.<br /> <br />Español.<br /> <br />6.   Descripción general de lo que se pretende que el alumnado aprenda o trabaje.<br /> <br />El objetivo es que el alumnado aprenda a dominar su cuerpo y a coordinarse con los demás para formar figuras humanas estables y estéticas. Se busca que comprendan la importancia de los diferentes roles: el portor (base), el ágil (quién sube) y el ayudante (seguridad).<br /> <br />7. Justificación de la elección sobre la base de la rutina de pensamiento elaborada en la tarea 1.1.<br /> <br />Esta SdA surge como respuesta directa al análisis realizado mediante el Ciclo de Gibbs en la fase previa (Tarea 1.1.). Tras detectar una marcada resistencia al trabajo cooperativo y cierta inseguridad ante el desempeño motriz, se ha diseñado una propuesta que prioriza la seguridad emocional y el análisis colectivo. El objetivo es que el alumnado, a través de la reflexión guiada sobre sus propias sensaciones, transforme el miedo al error en una oportunidad de aprendizaje, fortaleciendo así la cohesión del grupo y el clima de convivencia en el aula.<br />A través del Ciclo de Gibbs, el proyecto no termina en la figura física, sino en el análisis: ¿Qué figuras hacemos? ¿Nos sentimos seguros? ¿Hemos tenido miedo de que un compañero cayera? ¿Qué salió bien en las figuras? ¿Por qué se tambaleó la estructura? ¿Qué aprendimos sobre la importancia de estar quieto para ayudar al otro? ¿Cómo mejoraremos el agarre en la próxima sesión?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780940061937-p29vjqt8m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1.   Centro de interés o temática.<br /> <br />La temática gira en torno a \"El Circo del Acrosport\". Se presenta al alumnado el desafío de crear una compañía de acrobacia donde no existen \"estrellas\" individuales, sino que el éxito depende de la estabilidad y seguridad del grupo. Se trabaja bajo el concepto de arquitectura humana.<br /> <br />2.   Nivel al que va dirigido.<br /> <br />Cuarto de Educación Primaria.<br /> <br />3.   Temporalización aproximada.<br /> <br />6 sesiones de 1:30 horas<br /> <br />4.   Materia o materias implicadas.<br /> <br />Educación Física <br /> <br />5.   Idioma.<br /> <br />Español.<br /> <br />6.   Descripción general de lo que se pretende que el alumnado aprenda o trabaje.<br /> <br />El objetivo es que el alumnado aprenda a dominar su cuerpo y a coordinarse con los demás para formar figuras humanas estables y estéticas. Se busca que comprendan la importancia de los diferentes roles: el portor (base), el ágil (quién sube) y el ayudante (seguridad).<br /> <br />7. Justificación de la elección sobre la base de la rutina de pensamiento elaborada en la tarea 1.1.<br /> <br />Esta SdA surge como respuesta directa al análisis realizado mediante el Ciclo de Gibbs en la fase previa (Tarea 1.1.). Tras detectar una marcada resistencia al trabajo cooperativo y cierta inseguridad ante el desempeño motriz, se ha diseñado una propuesta que prioriza la seguridad emocional y el análisis colectivo. El objetivo es que el alumnado, a través de la reflexión guiada sobre sus propias sensaciones, transforme el miedo al error en una oportunidad de aprendizaje, fortaleciendo así la cohesión del grupo y el clima de convivencia en el aula.<br />A través del Ciclo de Gibbs, el proyecto no termina en la figura física, sino en el análisis: ¿Qué figuras hacemos? ¿Nos sentimos seguros? ¿Hemos tenido miedo de que un compañero cayera? ¿Qué salió bien en las figuras? ¿Por qué se tambaleó la estructura? ¿Qué aprendimos sobre la importancia de estar quieto para ayudar al otro? ¿Cómo mejoraremos el agarre en la próxima sesión?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780940120467-0n0qqrpd0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780940120467-0n0qqrpd0</odePageId>
+      <odeBlockId>block-1780949596378-yagsshtqd</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780940120467-0n0qqrpd0</odePageId>
+          <odeBlockId>block-1780949596378-yagsshtqd</odeBlockId>
+          <odeIdeviceId>idevice-1780949596375-2yb5hknbn</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780949596375-2yb5hknbn" title="" href="{{context_path}}/content/resources/2.3. Infografía_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.3. Infografía_page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1780949596375-2yb5hknbn" title="" href="{{context_path}}/content/resources/2.3. Infografía_page-0002.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.3. Infografía_page-0002.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780949596375-2yb5hknbn","img_0":{"img":"{{context_path}}/content/resources/2.3. Infografía_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/2.3. Infografía_page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/2.3. Infografía_page-0002.jpg","thumbnail":"{{context_path}}/content/resources/2.3. Infografía_page-0002.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780940147820-he9xn2f9t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780940147820-he9xn2f9t</odePageId>
+      <odeBlockId>block-1780940182627-o9v8ijbbz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780940147820-he9xn2f9t</odePageId>
+          <odeBlockId>block-1780940182627-o9v8ijbbz</odeBlockId>
+          <odeIdeviceId>idevice-1780940182624-23aiautw1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la realización del producto final (coreografía y de acrosport y realización de un cartel de equipo) de esta situación de aprendizaje para el área de Educación Física se utilizará el uso de Canva y Google Classroom, con el objetivo de facilitar la transferencia del aprendizaje físico al plano cognitivo.</p>
+<p>Esto permite que el alumnado documente su progreso y utilice el Ciclo de Gibbs para analizar la superación del miedo al error y la mejora de la confianza grupal. El propósito es ofrecer unas herramientas donde la acción motriz (coreografía) pueda ser revisada y evaluada de forma pausada.</p>
+<p>Esta elección queda justificada por el nivel y la edad de los estudiantes de 4º de Primaria, ya que ambas plataformas ofrecen un entorno seguro e intuitivo con acciones simples de arrastrar y soltar y el uso de plantillas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780940182624-23aiautw1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la realización del producto final (coreografía y de acrosport y realización de un cartel de equipo) de esta situación de aprendizaje para el área de Educación Física se utilizará el uso de Canva y Google Classroom, con el objetivo de facilitar la transferencia del aprendizaje físico al plano cognitivo.</p>\n<p>Esto permite que el alumnado documente su progreso y utilice el Ciclo de Gibbs para analizar la superación del miedo al error y la mejora de la confianza grupal. El propósito es ofrecer unas herramientas donde la acción motriz (coreografía) pueda ser revisada y evaluada de forma pausada.</p>\n<p>Esta elección queda justificada por el nivel y la edad de los estudiantes de 4º de Primaria, ya que ambas plataformas ofrecen un entorno seguro e intuitivo con acciones simples de arrastrar y soltar y el uso de plantillas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780940218052-1lx8n3kmx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780940218052-1lx8n3kmx</odePageId>
+      <odeBlockId>block-1780940232311-t8lrm875e</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780940218052-1lx8n3kmx</odePageId>
+          <odeBlockId>block-1780940232311-t8lrm875e</odeBlockId>
+          <odeIdeviceId>idevice-1780940232310-4vvm80l1l</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/MaestroJuanmaEF/acrosport-4-ptxbh1fc6g2pbsr7" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780940218052-1lx8n3kmx</odePageId>
+      <odeBlockId>block-1780940246749-0j63ejt8z</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780940218052-1lx8n3kmx</odePageId>
+          <odeBlockId>block-1780940246749-0j63ejt8z</odeBlockId>
+          <odeIdeviceId>idevice-1780940246748-vt5hdzhfc</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wakelet.com/wake/Br2wZdYF1XeISUKcUvoU7" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780940304961-1j1kol5gs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal que presenta de forma organizada las actividades y tareas del proyecto </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal que presenta de forma organizada las actividades y tareas del proyecto </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780940304961-1j1kol5gs</odePageId>
+      <odeBlockId>block-1780948524362-v0705gzgt</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780940304961-1j1kol5gs</odePageId>
+          <odeBlockId>block-1780948524362-v0705gzgt</odeBlockId>
+          <odeIdeviceId>idevice-1780948524357-jcqzer85x</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780948524357-jcqzer85x" title="" href="{{context_path}}/content/resources/7.1. Línea temporal para la organización_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/7.1. Línea temporal para la organización_page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780948524357-jcqzer85x","img_0":{"img":"{{context_path}}/content/resources/7.1. Línea temporal para la organización_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/7.1. Línea temporal para la organización_page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780940991321-7e96nkyv0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780940991321-7e96nkyv0</odePageId>
+      <odeBlockId>block-1780941347124-5dqd3l477</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780940991321-7e96nkyv0</odePageId>
+          <odeBlockId>block-1780941347124-5dqd3l477</odeBlockId>
+          <odeIdeviceId>idevice-1780941347123-ork0lrx1p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 100%; height: 231px;" border="1">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 19.975713%; height: 33px; border-color: #000000; border-style: solid; text-align: center;">TAREA </td>
+<td style="width: 42.197936%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">CRITERIO DE EVALUACIÓN</td>
+<td style="width: 14.025501%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">AGRUPAMIENTO</td>
+<td style="width: 5.950213%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">TIEMPO </td>
+<td style="width: 17.789921%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">HERRAMIENTA PARA EL ALUMNADO</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.975713%; height: 33px; border-color: #000000; border-style: solid;">Pautas de seguridad (asamblea). <br />Realizar los grupos y elección de la música.</td>
+<td style="width: 42.197936%; height: 33px; border-color: #000000; border-style: solid;">3.2.b. Respetar las normas consensuadas en clase, así como las reglas de juego, y actuar desde los parámetros de la deportividad y el juego limpio, valorando la aportación de los participantes.</td>
+<td style="width: 14.025501%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">
+<p>Individual y pequeños grupos</p>
+<p>(6 alumnos)</p>
+</td>
+<td style="width: 5.950213%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">1:30 horas<br />(1 sesión)</td>
+<td style="width: 17.789921%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">Youtube</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.975713%; height: 33px; border-color: #000000; border-style: solid;">Figuras de 3/4/5 personas en grupo</td>
+<td style="width: 42.197936%; height: 33px; border-color: #000000; border-style: solid;">4.3.b. Reproducir distintas combinaciones de movimientos o coreografías individuales y grupales que incorporen prácticas comunicativas que transmitan sentimientos, emociones o ideas a través del cuerpo, empleando los distintos recursos expresivos y rítmicos de la corporalidad.</td>
+<td style="width: 14.025501%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">pequeños grupos <br />(6 alumnos)</td>
+<td style="width: 5.950213%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">3 horas<br />(2 sesiones)</td>
+<td style="width: 17.789921%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">Youtube<br />Padlet</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.975713%; height: 33px; border-color: #000000; border-style: solid;">Ensayo de la coreografía con música</td>
+<td style="width: 42.197936%; height: 33px; border-color: #000000; border-style: solid;">4.3.b. Reproducir distintas combinaciones de movimientos o coreografías individuales y grupales que incorporen prácticas comunicativas que transmitan sentimientos, emociones o ideas a través del cuerpo, empleando los distintos recursos expresivos y rítmicos de la corporalidad.</td>
+<td style="width: 14.025501%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">pequeños grupos <br />(6 alumnos)</td>
+<td style="width: 5.950213%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">3 horas<br />(2 sesiones)</td>
+<td style="width: 17.789921%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">Youtube<br />Padlet</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.975713%; height: 33px; border-color: #000000; border-style: solid;">Exhibición de la coreografía de Acrosport</td>
+<td style="width: 42.197936%; height: 33px; border-color: #000000; border-style: solid;">2.1.b. Llevar a cabo proyectos motores de carácter individual, cooperativo o colaborativo, empleando estrategias de monitorización y seguimiento que permitan analizar los resultados obtenidos.</td>
+<td style="width: 14.025501%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">pequeños grupos <br />(6 alumnos)</td>
+<td style="width: 5.950213%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">1:30 horas<br />(1 sesión)</td>
+<td style="width: 17.789921%; height: 33px; text-align: center; border-color: #000000; border-style: solid;">Google Classroom<br />Canva</td>
+</tr>
+<tr style="height: 33px;">
+<td style="height: 33px; width: 99.939284%; border-color: #000000; border-style: solid;" colspan="5">¿Cómo consideras que podrían resolverse los problemas técnicos que pudieran surgir con el uso de tecnología en el aula?</td>
+</tr>
+<tr style="height: 33px;">
+<td style="height: 33px; width: 99.939284%; border-color: #000000; border-style: solid;" colspan="5">-  Para resolver cualquier problema relacionado con Padlet o Youtube, cuento con un repositorio de figuras offline en un ordenador. Además, tengo todas las figuras impresas y plastificadas.<br />-  Si fallara Canva tendría preparadas unas plantillas en folios A3 para realizar la cartelería de los equipos.<br />En el caso de Google Classroom utilizamos “fichas en papel de Gibbs”además de exit ticket para evaluar la participación del grupo. </td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780941347123-ork0lrx1p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 100%; height: 231px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.975713%; height: 33px; border-color: #000000; border-style: solid; text-align: center;\">TAREA </td>\n<td style=\"width: 42.197936%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">CRITERIO DE EVALUACIÓN</td>\n<td style=\"width: 14.025501%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">AGRUPAMIENTO</td>\n<td style=\"width: 5.950213%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">TIEMPO </td>\n<td style=\"width: 17.789921%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">HERRAMIENTA PARA EL ALUMNADO</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.975713%; height: 33px; border-color: #000000; border-style: solid;\">Pautas de seguridad (asamblea). <br />Realizar los grupos y elección de la música.</td>\n<td style=\"width: 42.197936%; height: 33px; border-color: #000000; border-style: solid;\">3.2.b. Respetar las normas consensuadas en clase, así como las reglas de juego, y actuar desde los parámetros de la deportividad y el juego limpio, valorando la aportación de los participantes.</td>\n<td style=\"width: 14.025501%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">\n<p>Individual y pequeños grupos</p>\n<p>(6 alumnos)</p>\n</td>\n<td style=\"width: 5.950213%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">1:30 horas<br />(1 sesión)</td>\n<td style=\"width: 17.789921%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">Youtube</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.975713%; height: 33px; border-color: #000000; border-style: solid;\">Figuras de 3/4/5 personas en grupo</td>\n<td style=\"width: 42.197936%; height: 33px; border-color: #000000; border-style: solid;\">4.3.b. Reproducir distintas combinaciones de movimientos o coreografías individuales y grupales que incorporen prácticas comunicativas que transmitan sentimientos, emociones o ideas a través del cuerpo, empleando los distintos recursos expresivos y rítmicos de la corporalidad.</td>\n<td style=\"width: 14.025501%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">pequeños grupos <br />(6 alumnos)</td>\n<td style=\"width: 5.950213%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">3 horas<br />(2 sesiones)</td>\n<td style=\"width: 17.789921%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">Youtube<br />Padlet</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.975713%; height: 33px; border-color: #000000; border-style: solid;\">Ensayo de la coreografía con música</td>\n<td style=\"width: 42.197936%; height: 33px; border-color: #000000; border-style: solid;\">4.3.b. Reproducir distintas combinaciones de movimientos o coreografías individuales y grupales que incorporen prácticas comunicativas que transmitan sentimientos, emociones o ideas a través del cuerpo, empleando los distintos recursos expresivos y rítmicos de la corporalidad.</td>\n<td style=\"width: 14.025501%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">pequeños grupos <br />(6 alumnos)</td>\n<td style=\"width: 5.950213%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">3 horas<br />(2 sesiones)</td>\n<td style=\"width: 17.789921%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">Youtube<br />Padlet</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.975713%; height: 33px; border-color: #000000; border-style: solid;\">Exhibición de la coreografía de Acrosport</td>\n<td style=\"width: 42.197936%; height: 33px; border-color: #000000; border-style: solid;\">2.1.b. Llevar a cabo proyectos motores de carácter individual, cooperativo o colaborativo, empleando estrategias de monitorización y seguimiento que permitan analizar los resultados obtenidos.</td>\n<td style=\"width: 14.025501%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">pequeños grupos <br />(6 alumnos)</td>\n<td style=\"width: 5.950213%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">1:30 horas<br />(1 sesión)</td>\n<td style=\"width: 17.789921%; height: 33px; text-align: center; border-color: #000000; border-style: solid;\">Google Classroom<br />Canva</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"height: 33px; width: 99.939284%; border-color: #000000; border-style: solid;\" colspan=\"5\">¿Cómo consideras que podrían resolverse los problemas técnicos que pudieran surgir con el uso de tecnología en el aula?</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"height: 33px; width: 99.939284%; border-color: #000000; border-style: solid;\" colspan=\"5\">-  Para resolver cualquier problema relacionado con Padlet o Youtube, cuento con un repositorio de figuras offline en un ordenador. Además, tengo todas las figuras impresas y plastificadas.<br />-  Si fallara Canva tendría preparadas unas plantillas en folios A3 para realizar la cartelería de los equipos.<br />En el caso de Google Classroom utilizamos “fichas en papel de Gibbs”además de exit ticket para evaluar la participación del grupo. </td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780940333742-4hfvggbuc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluacion</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluacion</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluacion</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780940333742-4hfvggbuc</odePageId>
+      <odeBlockId>block-1780940347622-wucnxpao0</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780940333742-4hfvggbuc</odePageId>
+          <odeBlockId>block-1780940347622-wucnxpao0</odeBlockId>
+          <odeIdeviceId>idevice-1780940347621-w5mw98zhn</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780940347621-w5mw98zhn" title="" href="{{context_path}}/content/resources/Diana.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Diana.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780940347621-w5mw98zhn","img_0":{"img":"{{context_path}}/content/resources/Diana.png","thumbnail":"{{context_path}}/content/resources/Diana.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780940333742-4hfvggbuc</odePageId>
+      <odeBlockId>block-1780940711048-bhqp75ucw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780940333742-4hfvggbuc</odePageId>
+          <odeBlockId>block-1780940711048-bhqp75ucw</odeBlockId>
+          <odeIdeviceId>idevice-1780940711046-4kn7p22p4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Lista de cotejo<br /> <br />Se utilizará principalmente durante la sesión final de exhibición de la coreografía para comprobar de forma rápida, objetiva y en tiempo real la presencia o ausencia de conductas y requisitos técnicos. Además, se puede aplicar de manera idónea como coevaluación entre iguales, repartiendo la lista al alumnado que se encuentra en la grada esperando su turno para que actúen como jueces de sus compañeros.</p>
+<table style="width: 100%; height: 459px;" border="1">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 70.290771%; text-align: center; height: 33px;">Indicador</td>
+<td style="width: 4.803247%; text-align: center; height: 33px;">SÍ</td>
+<td style="width: 4.551999%; text-align: center; height: 33px;">NO</td>
+<td style="width: 20.353982%; text-align: center; height: 33px;">Observaciones</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 70.290771%; height: 33px;">El grupo presenta una entrada y salida organizada y estética al escenario<br /></td>
+<td style="width: 4.803247%; height: 33px;"><br /></td>
+<td style="width: 4.551999%; height: 33px;"><br /></td>
+<td style="width: 20.353982%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 70.290771%; height: 57px;">Se realizan, al menos, 4 pirámides o figuras diferentes durante la coreografía.</td>
+<td style="width: 4.803247%; height: 57px;"><br /></td>
+<td style="width: 4.551999%; height: 57px;"><br /></td>
+<td style="width: 20.353982%; height: 57px;"><br /></td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 70.290771%; height: 57px;">Todos los miembros del grupo participan activamente y tienen un role definido (portor, ágil u observador).</td>
+<td style="width: 4.803247%; height: 57px;"><br /></td>
+<td style="width: 4.551999%; height: 57px;"><br /></td>
+<td style="width: 20.353982%; height: 57px;"><br /></td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 70.290771%; height: 57px;">Los portores realizan los apoyos correctos (en zonas seguras como hombros o pelvis, nunca en la columna).</td>
+<td style="width: 4.803247%; height: 57px;"><br /></td>
+<td style="width: 4.551999%; height: 57px;"><br /></td>
+<td style="width: 20.353982%; height: 57px;"><br /></td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 70.290771%; height: 57px;">Los ágiles suben y bajan de forma controlada y sin saltar bruscamente sobre los compañeros.</td>
+<td style="width: 4.803247%; height: 57px;"><br /></td>
+<td style="width: 4.551999%; height: 57px;"><br /></td>
+<td style="width: 20.353982%; height: 57px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 70.290771%; height: 33px;">El grupo mantiene la estabilidad y el equilibrio de cada figura durante al menos 3 segundos.</td>
+<td style="width: 4.803247%; height: 33px;"><br /></td>
+<td style="width: 4.551999%; height: 33px;"><br /></td>
+<td style="width: 20.353982%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 70.290771%; height: 33px;">Existen transiciones fluidas (movimientos enlazados) entre una figura y la siguiente.</td>
+<td style="width: 4.803247%; height: 33px;"><br /></td>
+<td style="width: 4.551999%; height: 33px;"><br /></td>
+<td style="width: 20.353982%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 70.290771%; height: 33px;">Los movimientos de la coreografía se adaptan y van al ritmo de la música elegida.</td>
+<td style="width: 4.803247%; height: 33px;"><br /></td>
+<td style="width: 4.551999%; height: 33px;"><br /></td>
+<td style="width: 20.353982%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 70.290771%; height: 33px;">El grupo muestra respeto por las normas de seguridad y el juego limpio durante toda la exhibición</td>
+<td style="width: 4.803247%; height: 33px;"><br /></td>
+<td style="width: 4.551999%; height: 33px;"><br /></td>
+<td style="width: 20.353982%; height: 33px;"></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 70.290771%; height: 33px;">Muestran una actitud de esfuerzo, confianza y ayuda mutua ante las dificultades o desequilibrios.</td>
+<td style="width: 4.803247%; height: 33px;"><br /></td>
+<td style="width: 4.551999%; height: 33px;"><br /></td>
+<td style="width: 20.353982%; height: 33px;"><br /></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780940711046-4kn7p22p4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Lista de cotejo<br /> <br />Se utilizará principalmente durante la sesión final de exhibición de la coreografía para comprobar de forma rápida, objetiva y en tiempo real la presencia o ausencia de conductas y requisitos técnicos. Además, se puede aplicar de manera idónea como coevaluación entre iguales, repartiendo la lista al alumnado que se encuentra en la grada esperando su turno para que actúen como jueces de sus compañeros.</p>\n<table style=\"width: 100%; height: 459px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 70.290771%; text-align: center; height: 33px;\">Indicador</td>\n<td style=\"width: 4.803247%; text-align: center; height: 33px;\">SÍ</td>\n<td style=\"width: 4.551999%; text-align: center; height: 33px;\">NO</td>\n<td style=\"width: 20.353982%; text-align: center; height: 33px;\">Observaciones</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 70.290771%; height: 33px;\">El grupo presenta una entrada y salida organizada y estética al escenario<br /></td>\n<td style=\"width: 4.803247%; height: 33px;\"><br /></td>\n<td style=\"width: 4.551999%; height: 33px;\"><br /></td>\n<td style=\"width: 20.353982%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 70.290771%; height: 57px;\">Se realizan, al menos, 4 pirámides o figuras diferentes durante la coreografía.</td>\n<td style=\"width: 4.803247%; height: 57px;\"><br /></td>\n<td style=\"width: 4.551999%; height: 57px;\"><br /></td>\n<td style=\"width: 20.353982%; height: 57px;\"><br /></td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 70.290771%; height: 57px;\">Todos los miembros del grupo participan activamente y tienen un role definido (portor, ágil u observador).</td>\n<td style=\"width: 4.803247%; height: 57px;\"><br /></td>\n<td style=\"width: 4.551999%; height: 57px;\"><br /></td>\n<td style=\"width: 20.353982%; height: 57px;\"><br /></td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 70.290771%; height: 57px;\">Los portores realizan los apoyos correctos (en zonas seguras como hombros o pelvis, nunca en la columna).</td>\n<td style=\"width: 4.803247%; height: 57px;\"><br /></td>\n<td style=\"width: 4.551999%; height: 57px;\"><br /></td>\n<td style=\"width: 20.353982%; height: 57px;\"><br /></td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 70.290771%; height: 57px;\">Los ágiles suben y bajan de forma controlada y sin saltar bruscamente sobre los compañeros.</td>\n<td style=\"width: 4.803247%; height: 57px;\"><br /></td>\n<td style=\"width: 4.551999%; height: 57px;\"><br /></td>\n<td style=\"width: 20.353982%; height: 57px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 70.290771%; height: 33px;\">El grupo mantiene la estabilidad y el equilibrio de cada figura durante al menos 3 segundos.</td>\n<td style=\"width: 4.803247%; height: 33px;\"><br /></td>\n<td style=\"width: 4.551999%; height: 33px;\"><br /></td>\n<td style=\"width: 20.353982%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 70.290771%; height: 33px;\">Existen transiciones fluidas (movimientos enlazados) entre una figura y la siguiente.</td>\n<td style=\"width: 4.803247%; height: 33px;\"><br /></td>\n<td style=\"width: 4.551999%; height: 33px;\"><br /></td>\n<td style=\"width: 20.353982%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 70.290771%; height: 33px;\">Los movimientos de la coreografía se adaptan y van al ritmo de la música elegida.</td>\n<td style=\"width: 4.803247%; height: 33px;\"><br /></td>\n<td style=\"width: 4.551999%; height: 33px;\"><br /></td>\n<td style=\"width: 20.353982%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 70.290771%; height: 33px;\">El grupo muestra respeto por las normas de seguridad y el juego limpio durante toda la exhibición</td>\n<td style=\"width: 4.803247%; height: 33px;\"><br /></td>\n<td style=\"width: 4.551999%; height: 33px;\"><br /></td>\n<td style=\"width: 20.353982%; height: 33px;\"></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 70.290771%; height: 33px;\">Muestran una actitud de esfuerzo, confianza y ayuda mutua ante las dificultades o desequilibrios.</td>\n<td style=\"width: 4.803247%; height: 33px;\"><br /></td>\n<td style=\"width: 4.551999%; height: 33px;\"><br /></td>\n<td style=\"width: 20.353982%; height: 33px;\"><br /></td>\n</tr>\n</tbody>\n</table>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780941934315-h0tmxqh3d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo final de créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo final de créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780941934315-h0tmxqh3d</odePageId>
+      <odeBlockId>block-1780942587995-l5gyqgoc8</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780941934315-h0tmxqh3d</odePageId>
+          <odeBlockId>block-1780942587995-l5gyqgoc8</odeBlockId>
+          <odeIdeviceId>idevice-1780942587994-ro1jfts8f</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Acrosport 4ºA de Educación Física (Educación Primaria)</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Juanma</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
